@@ -1,6 +1,6 @@
 # CosmixLibrary
 
-### A Library Management System consisting of Student & Admin Dashboard.
+### A Library Management System consisting of Student & Admin Dashboard along with Registration. 
 
 ### Admin Dashboard functions:
 
