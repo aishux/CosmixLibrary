@@ -13,3 +13,7 @@
 
 1. Check books available in stock
 2. Keep track of issue date and return date of 15days.
+
+# :star: Process Flow
+
+![LibraryManagement](https://user-images.githubusercontent.com/61228436/127654516-80e185b6-7e33-4edd-b88a-6c93953c0c46.png)
