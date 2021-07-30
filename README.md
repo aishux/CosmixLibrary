@@ -1,3 +1,4 @@
+
 # CosmixLibrary
 
 ### A Library Management System consisting of Student & Admin Dashboard along with Registration. 
@@ -16,4 +17,4 @@
 
 # :star: Process Flow
 
-![LibraryManagement](https://user-images.githubusercontent.com/61228436/127654516-80e185b6-7e33-4edd-b88a-6c93953c0c46.png)
+![Library](https://user-images.githubusercontent.com/61228436/127654877-c927bd68-d31e-47dc-a692-efb04a91614a.png)
